@@ -1,5 +1,11 @@
 # CatalogTable
 目录整理
+用java实现的设计模式
+https://github.com/iluwatar/java-design-patterns
+
+Android源码设计模式分析项目
+https://github.com/simple-android-framework/android_design_patterns_analysis
+
 Google
 https://github.com/google
 
