@@ -137,3 +137,6 @@ https://github.com/JetBrains
 
 滴滴出行
 https://github.com/didi
+
+Android源码设计模式分析开源项目
+https://github.com/simple-android-framework-exchange/android_design_patterns_analysis#schedule
