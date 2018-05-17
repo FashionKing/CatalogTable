@@ -180,9 +180,9 @@ github 客户端 - https://github.com/github/android
 
 9GAG stormzhang Android REST Client - https://github.com/stormzhang/
 
-9GAGDribbo 碎星大神 - https://github.com/Issacw0ng/
+9GAGDribbo 碎星大神 - https://github.com/Issacw0ng/Dribbo
 
-DribboStartupNews - https://github.com/halzhang/StartupNews
+StartupNews - https://github.com/halzhang/StartupNews
 
 放的都是完整的app，开源控件、工具什么的，果断 Trinea大神 - https://github.com/Trinea/android-open-project
 
