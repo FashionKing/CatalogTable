@@ -143,3 +143,6 @@ https://github.com/simple-android-framework-exchange/android_design_patterns_ana
 
 Android 开源项目分类汇总，更全更新可见 codekk.com
 https://github.com/Trinea/android-open-project
+
+The Google I/O 2017 Android App 
+https://github.com/google/iosched
