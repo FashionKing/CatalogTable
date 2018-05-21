@@ -6,6 +6,9 @@ https://github.com/iluwatar/java-design-patterns
 Android源码设计模式分析项目
 https://github.com/simple-android-framework/android_design_patterns_analysis
 
+Android工具类
+https://github.com/Blankj/AndroidUtilCode
+
 Google
 https://github.com/google
 
