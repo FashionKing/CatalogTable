@@ -1,5 +1,9 @@
 # CatalogTable
 目录整理
+
+强大、可定制、易扩展的 ViewPager 指示器框架
+https://github.com/hackware1993/MagicIndicator
+
 用java实现的设计模式
 https://github.com/iluwatar/java-design-patterns
 
