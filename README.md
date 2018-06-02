@@ -1,6 +1,9 @@
 # CatalogTable
 目录整理
 
+QQ的小红点
+https://github.com/mabeijianxi/stickyDots
+
 强大、可定制、易扩展的 ViewPager 指示器框架
 https://github.com/hackware1993/MagicIndicator
 
