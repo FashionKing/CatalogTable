@@ -1,6 +1,9 @@
 # CatalogTable
 目录整理
 
+模仿淘宝、京东、蘑菇街商品详情页，可嵌套ListView、WebView、ViewPager、FragmentTabhost等
+https://github.com/happylishang/DragScrollDetailsLayout
+
 文本显示textview
 https://github.com/matrixxun/MaterialBadgeTextView
 
